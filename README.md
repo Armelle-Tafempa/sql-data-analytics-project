@@ -38,7 +38,6 @@ Analyzed the historical period covered by the sales data and examined customer a
 ### 4. Measures Exploration
 
 Calculated key business metrics, including:
-
 - Total revenue
 - Total quantity sold
 - Average selling price
@@ -50,7 +49,6 @@ Calculated key business metrics, including:
 ### 5. Magnitude Analysis
 
 Analyzed business metrics across different dimensions, including:
-
 - Customers by country
 - Customers by gender
 - Products by category
@@ -61,7 +59,6 @@ Analyzed business metrics across different dimensions, including:
 ### 6. Ranking Analysis
 
 Identified top and bottom performers, including:
-
 - Top 5 products by revenue
 - Bottom 5 products by revenue
 - Top 10 customers by revenue
@@ -72,7 +69,6 @@ This section also demonstrates the use of SQL ranking functions such as `RANK()`
 ### 7. Change Over Time Analysis
 
 Analyzed sales performance over time using:
-
 - Year and month
 - `DATETRUNC()`
 - `FORMAT()`
@@ -83,7 +79,6 @@ Analyzed sales performance over time using:
 ### 8. Cumulative Analysis
 
 Applied window functions to calculate:
-
 - Running total revenue
 - Average price over time
 - Cumulative performance trends
@@ -91,7 +86,6 @@ Applied window functions to calculate:
 ### 9. Performance Analysis
 
 Performed product-level year-over-year analysis using:
-
 - `LAG()`
 - `AVG() OVER()`
 - `CASE`
@@ -103,12 +97,10 @@ Both subquery and CTE approaches were explored.
 ### 10. Data Segmentation
 
 Created business-oriented segments for:
-
 - Products based on cost ranges
 - Customers based on lifespan and spending behavior
 
 Customer segments include:
-
 - VIP
 - Regular
 - New
@@ -120,7 +112,6 @@ Analyzed the contribution of each product category to overall revenue using wind
 ### 12. Customer Report
 
 Built a customer-level analytical report containing:
-
 - Customer information
 - Age and age group
 - Customer segment
@@ -136,7 +127,6 @@ Built a customer-level analytical report containing:
 ### 13. Product Report
 
 Built a product-level analytical report containing:
-
 - Product information
 - Category and subcategory
 - Cost
