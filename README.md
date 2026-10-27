@@ -1,3 +1,8 @@
+# SQL Data Analytics Project
+
+**Armelle Tafempa**  
+Accounting & Audit Professional | Data Analytics | SQL | Business Intelligence | ERP
+
 👩🏽‍💻 About Me
 
 I am an Accounting and Audit professional with 6+ years of experience, currently expanding my skills in Data Analytics, SQL, Business Intelligence, and ERP systems.
