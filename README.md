@@ -1,6 +1,6 @@
 # 📊 SQL Data Analytics Project
 
-**👩🏽‍💻 Armelle Tafempa**  
+**Armelle Tafempa**  
 **Accounting & Audit Professional | Data Analytics | SQL | Business Intelligence | ERP**
 
 👩🏽‍💻 About Me
