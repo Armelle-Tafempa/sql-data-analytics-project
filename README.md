@@ -13,7 +13,7 @@ I am now combining this experience with data analytics to transform data into bu
 
 📚 Learning Resource
 
-This project was completed as part of my learning journey through the SQL course and project by **Data with Baraa**.
+This project was completed as part of my learning journey through the SQL course and project by [Data With Baraa](https://github.com/DataWithBaraa).
 
 The database structure and project guidance were provided through the course. I personally worked through the exercises, wrote and adapted the SQL queries, and developed the analytical reports as part of my hands-on practice.
 
